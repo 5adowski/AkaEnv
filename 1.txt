@@ -1,0 +1,16 @@
+1.
+
+1.A. W jakim celu używa się klas abstrakcyjnych, a w jakim interfejsów?
+1.B. Czym różni się tablica od listy liniowej?
+
+
+1.A.
+
+
+
+1.B.
+W tablicach elementy przechowywane są w ciągu pamięci. Każdy element posiada swój indeks,
+dzięki któremu jesteśmy w stanie szybko dostać się do danego elementu.
+W listach liniowych to elementy przechowują informację odnośnie następnego elementu.
+Wielkości tablicy nie można zmieniać podczas działania programu z powodu przechowywania elementów w ciągu pamięci, natomiast
+w liście liniowej, dzięki przechowywaniu informacji w elementach, możemy wstawić element podczas działania.
